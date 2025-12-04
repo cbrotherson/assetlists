@@ -6367,7 +6367,7 @@
     {
       "chain_name": "optio",
       "base_denom": "uOPT",
-      "path": "transfer/channel-107347/uOPT",
+      "path": "transfer/channel-108371/uOPT",
       "osmosis_verified": false,
       "_comment": "Optio $OPT"
     }
